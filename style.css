@@ -1,56 +1,79 @@
 .main {
     background:#E5E5E5;
+    overflow: hidden;
+    width: 1920px;
+    height: 700px;
+    top: -7px;
 }
 .container {
     width: 80%;
     margin: 0 auto;
 }
 .frame {
-    margin-left: ;
+    /*margin-left: ;*/
+}
+.main-button {
+    width: 225px;
+    background: #34547A;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
 }
 .main-column {
     float: left;
     width: 50%;
+    padding-top: 100px;
 }
 .main-title {
     width: 541px;
     height: 45px;
+    font-size: 48px;
+    line-height: 79px;
+}
+.lorem {
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+    margin-top: 67px;
+    width: 79%;
 }
 .about-me{
     text-align: center;
-    width: 403px;
-}
-.about-me-discription{
-    text-align: center;
     width: 540px;
+    height: 147px;
+    left:690px;
+    top: 812px;
     margin: 0 auto;
+}
+.about-me-title {
+    text-aligh: center;
+    font-size: 32px;
+    line-height: 37px;
+    color: #000000;
+    margin-top: 50px;
+}
+.about-me-discription {
+    text-align: center;
+    font-size: 16px;
+    line-height: 26px;
+}
+.numbers {
+    width: 1920px;
+    height: 250px;
+    top: 1059px;
+
 }
 .item {
     width: 25%;
-    height: 100px;
+    height: 480px;
     float: left;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .item-1{
-    background: red;
+    background-image: url("light.png");
 }
 .item-2{
-    background: black;
-}
-.item-3{
-    background: blue;
-}
-.item-4{
-    background: yellow;
-}
-.item-5{
-    background: green;
-}
-.item-6{
-    background: aqua;
-}
-.item-7{
-    background: beige;
-}
-.item-8{
-    background: violet;
+    background-image: url("table.png");
 }
