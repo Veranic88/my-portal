@@ -18,7 +18,7 @@
 }
 .about-me{
     text-align: center;
-    widht: 403;
+    width: 403px;
 }
 .about-me-discription{
     text-align: center;
@@ -26,5 +26,31 @@
     margin: 0 auto;
 }
 .item {
-    widht:
+    width: 25%;
+    height: 100px;
+    float: left;
+}
+.item-1{
+    background: red;
+}
+.item-2{
+    background: black;
+}
+.item-3{
+    background: blue;
+}
+.item-4{
+    background: yellow;
+}
+.item-5{
+    background: green;
+}
+.item-6{
+    background: aqua;
+}
+.item-7{
+    background: beige;
+}
+.item-8{
+    background: violet;
 }
