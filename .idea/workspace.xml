@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6fa6e22b-2606-466a-a44f-ca97de95b568" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +37,7 @@
       <workItem from="1584170632239" duration="1859000" />
       <workItem from="1584174878036" duration="9161000" />
       <workItem from="1584255857889" duration="1882000" />
-      <workItem from="1584258576600" duration="10341000" />
+      <workItem from="1584258576600" duration="10617000" />
     </task>
     <task id="LOCAL-00001" summary="Added initial">
       <created>1583575656237</created>
@@ -71,11 +68,11 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="749" y="30" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1583575685868" />
-    <state x="740" y="274" key="Vcs.Push.Dialog.v2" timestamp="1584258309049">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="740" y="271" key="Vcs.Push.Dialog.v2" timestamp="1584271479116">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="740" y="274" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1584258309049" />
-    <state x="740" y="271" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1583575692218" />
+    <state x="740" y="271" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1584271479116" />
     <state x="400" y="324" width="670" height="58" key="search.everywhere.popup" timestamp="1584263387745">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
