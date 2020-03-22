@@ -1,50 +1,5 @@
-@keyframes test {
-    from {
-        widht:50%;
-    }
-    to {
-        width:100%;
-    }
-}
-@keyframes blue {
-    from {
-        background-color: darkblue;
-    }
-    50% {
-        background-color: lightblue;
-    }
-    to{
-       background-color: darkblue;
-    }
-}
-.blue{
-    animation-name: blue;
-    animation-duration: 10s;
-    widht: 100px;
-    height: 100px;
-
-}
-@font-face {
-    font-family: 'Roboto-Medium';
-    src: url('fonts/Roboto-Medium.ttf')
-}
-@font-face {
-    font-family: 'fontello';
-    src: url('./fonts/fontello.eot?65153166');
-    src: url('./fonts/fontello.eot?65153166#iefix') format('embedded-opentype'),
-    url('./fonts/fontello.woff?65153166') format('woff'),
-    url('./fonts/fontello.ttf?65153166') format('truetype'),
-    url('./fonts/fontello.svg?65153166#fontello') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
 html {
     font-family: 'Roboto-Medium';
-}
-i {
-    font-family: 'fontello';
-    font-size:50px;
-    color: green;
 }
 .main {
     background:#E5E5E5;
@@ -58,7 +13,7 @@ i {
     margin: 0 auto;
 }
 .frame {
-    /*margin-left: ;*/
+    margin-left: ;
 }
 .main-button {
     width: 225px;
@@ -85,6 +40,7 @@ i {
     color: #727272;
     margin-top: 67px;
     width: 79%;
+    width: 541px;
 }
 .about-me{
     text-align: center;
@@ -125,3 +81,4 @@ i {
 .item-2{
     background-image: url("table.png");
 }
+
