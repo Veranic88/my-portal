@@ -1,6 +1,17 @@
 html {
     font-family: 'Roboto-Medium';
 }
+.first {
+    width: 80%;
+    margin: 0 auto;
+}
+.WD {
+    margin-top: 30px;
+}
+.menu {
+    margin-top: 30px;
+    margin-left: 720px;
+    }
 .main {
     background:#E5E5E5;
     overflow: hidden;
@@ -13,7 +24,7 @@ html {
     margin: 0 auto;
 }
 .frame {
-    margin-left: ;
+    margin-left: 80px;
 }
 .main-button {
     width: 225px;
@@ -62,16 +73,78 @@ html {
     font-size: 16px;
     line-height: 26px;
 }
-.numbers {
+.container-blue {
     width: 1920px;
     height: 250px;
     top: 1059px;
+    background: #34547A;
+}
+.numbers {
+    margin: 0 auto;
+    background: #34547A;
+}
+.numbers-items {
+    width: 141px;
+    height: 50px;
+    margin: 0 auto;
+}
+.skills {
+    width: 1150px;
+    height: 450px;
+    top: 1411px;
+}
+.skills-list {
+    width: 445px;
+    height: 257px;
+    margin-left: 386px;
+   }
+.photo {
+    width: 555px;
+    height: 450px;
+    margin-left: 981px;
+    background: url(photo.png), #C4C4C4;
+}
+.lines {
+    background: #34547A;
+    height: 4px;
+}
+.video {
+    width: 1920px;
+    height: 1004px;
+    top: 1962px;
+    background: #E5E5E5;
+}
+.video-title {
+    width: 540px;
+    height: 147px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+    text-align: center;
+    color: #000000;
+    margin: 0 auto;
+    top: 30px;
+}
+.text {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #727272;
+    margin: 0 auto;
+}
+.rectangle {
 
 }
 .item {
     width: 25%;
     height: 480px;
     float: left;
+    top: 2994px;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -81,4 +154,78 @@ html {
 .item-2{
     background-image: url("table.png");
 }
-
+.clients {
+    width: 1110px;
+    height: 120px;
+    top: 4025px;
+}
+.rectangle9 {
+    width: 255px;
+    height: 120px;
+    margin: 0 auto;
+}
+.form {
+    width: 1920px;
+    height: 762px;
+    top: 4246px;
+    background: #EEEFF1;
+}
+.form-title {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+    text-align: center;
+    color: #000000;
+    margin: 0 auto;
+}
+.text2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 36px;
+    text-align: center;
+    color: #727272;
+    margin: 0 auto;
+}
+.e-mail {
+    width: 740px;
+    height: 175px;
+    margin: 0 auto;
+}
+.message {
+    width: 125px;
+    background: #34547A;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    margin: 0 auto;
+}
+.footer {
+    width: 1920px;
+    height: 151px;
+    top: 5008px;
+    background: #34547A;
+}
+.Ivanov {
+    width: 130px;
+    height: 19px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    color: #FFFFFF;
+    margin-left: 406px;
+    top: 20px;
+}
+.footer-soc {
+    width: 175px;
+    height: 40px;
+    color: #FFFFFF;
+    margin-left: 1356px;
+    top: 20px;
+}
